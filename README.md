@@ -1,5 +1,7 @@
 # Feature Flag Manager (Prototype)
 
+Link To Site: https://salimkashou.github.io/Feature-Flag-Manager/
+
 A lightweight, browser-based Feature Flag Manager built for Product Managers to quickly track and control feature flags across environments and audiences.
 
 This is a **local-only prototype**: everything is stored in your browser via **localStorage** (no backend).
